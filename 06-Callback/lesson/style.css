@@ -1,0 +1,62 @@
+.calculator {
+    width: 200px;
+    margin: 100px auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: blue;
+}
+
+.input {
+    width: 100%;
+    margin-bottom: 10px;
+    text-align: right;
+}
+
+.keypad {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+button {
+    padding: 15px;
+    font-size: 16px;
+}
+
+.division {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 15px;
+    height: 10px;
+}
+.multiplication {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 15px;
+    height: 10px;
+}
+.plus {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 15px;
+    height: 10px;
+}
+.minus {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 15px;
+    height: 10px;
+}
+.equals {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 15px;
+    height: 10px;
+}
